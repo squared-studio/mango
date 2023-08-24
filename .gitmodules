@@ -1,0 +1,6 @@
+[submodule "sub/SystemVerilog"]
+	path = sub/SystemVerilog
+	url = https://github.com/squared-studio/SystemVerilog.git
+[submodule "sub/ariane"]
+	path = sub/ariane
+	url = https://github.com/lowRISC/ariane.git
