@@ -1,3 +1,6 @@
 [submodule "sub/SystemVerilog"]
 	path = sub/SystemVerilog
 	url = https://github.com/squared-studio/SystemVerilog.git
+[submodule "sub/cva6"]
+	path = sub/cva6
+	url = https://github.com/openhwgroup/cva6.git
