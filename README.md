@@ -1,6 +1,6 @@
 # quad-core-process-lowRISC-ariane
 lowRISC <br>
-<img src=./doc/diagrams/project_top.svg>
+<img src=./docs/diagrams/project_top.svg>
 
 ## Specification
 |Component
