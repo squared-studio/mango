@@ -48,3 +48,8 @@ Address Width = 64
 ||||B3: bypass_i
 ||||B4: clk_en_2
 ||||B5, B6, B7: Reserved|
+
+
+---
+
+<img src=./docs/diagrams/arch.svg>
